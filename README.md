@@ -36,3 +36,7 @@ data/
 ├── B260_01_RevelationHINBCSN260DA.txt
 ├── B260_02_RevelationHINBCSN260DA.txt
 └── B260_03_RevelationHINBCSN260DA.txt
+
+# resources
+- [Beyond the ABCs: Exploring the nuances of tokenization in diverse languages](https://www.icodeformybhasa.com/p/beyond-the-abcs-exploring-the-nuances)
+- 
