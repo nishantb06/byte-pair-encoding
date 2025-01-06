@@ -36,6 +36,7 @@ class RegexTokenizer(Tokenizer):
     def train(self, text, vocab_size, verbose=False):
         assert vocab_size >= 256
         num_merges = vocab_size - 256
+        tokens = text.encode("utf-8")
 
         # split the text up into text chunks
         text_chunks = re.findall(self.compiled_pattern, text)
@@ -64,6 +65,7 @@ class RegexTokenizer(Tokenizer):
             # prints
             if verbose:
                 print(f"merge {i+1}/{num_merges}: {pair} -> {idx} ({vocab[idx]}) had {stats[pair]} occurrences")
+                print(f"compression ratio: {len(tokens) / len(ids):.2f}X")
 
         # save class variables
         self.merges = merges # used in encode()
