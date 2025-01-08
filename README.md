@@ -1,14 +1,33 @@
 # Training a Tokenizer with Byte-Pair Encoding (BPE) for Hindi Language.
 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 20">
+  <linearGradient id="b" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="a">
+    <rect width="290" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#a)">
+    <path fill="#555" d="M0 0h97v20H0z"/>
+    <path fill="#FF9B3F" d="M97 0h193v20H97z"/>
+    <path fill="url(#b)" d="M0 0h290v20H0z"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+    <text x="48.5" y="15" fill="#010101" fill-opacity=".3">Hugging Face</text>
+    <text x="48.5" y="14">Hugging Face</text>
+    <text x="192.5" y="15" fill="#010101" fill-opacity=".3">Hindi Tokenizer BPE v2 Demo</text>
+    <text x="192.5" y="14">Hindi Tokenizer BPE v2 Demo</text>
+  </g>
+</svg>
+
+
 This repository contains the code for training a tokenizer with Byte-Pair Encoding (BPE) for the Hindi language. The tokenizer is trained on a dataset of Hindi text and is used to convert the text into a sequence of tokens.
 
 ### Final compression ratio: 10.18X
 
 ### Vocab size: 5000
 
-### logs
-
-hugging face spaces: https://huggingface.co/spaces/nishantb06/hindi-tokenizer-bpe-v2
 
 ## Regex pattern used:
 `HINDI_SPLIT_PATTERN_V2 = r'\s*(?:[\u0900-\u097F\u0981-\u0983]+|\d+|[^\s\w\u0900-\u097F\u0981-\u0983])'`
@@ -17,6 +36,7 @@ Why is the regex pattern used?
 When working with languages other than English, it is important to use the regex pattern to ensure that bytes belonging to the same token are not split, thus creating a lot of unknown tokens. 
 Therefore it becomes important to ensure that the words are first split by space and that the verbs of Hindi lanuage are not split. Taking care of numbers and other special characters is also important. 
 
+### logs
 ```
 compression ratio: 10.18X
 merge 4691/4744: (4945, 260) -> 4946 (b' \xe0\xa4\x97\xe0\xa4\xa1\xe0\xa5\x8d\xe0\xa4\xa2\xe0\xa5\x87') had 4 occurrences
