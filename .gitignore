@@ -9,3 +9,11 @@ data/*/*.txt
 *.py3
 *.model
 *.vocab
+__pycache__/
+.env
+train/*.txt
+train/
+wikipedia_hindi/*.txt
+wikipedia_hindi/
+tests/New_Testament_Hindi.txt
+wikipedia_hindi_merged.txt

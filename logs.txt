@@ -1,0 +1,628 @@
+compression ratio: 9.74X
+merge 3181/4744: (268, 160) -> 3436 (b'\xe0\xa4\xbe\xe0\xa4\xa0') had 10 occurrences
+compression ratio: 9.74X
+merge 3186/4744: (295, 671) -> 3441 (b' \xe0\xa4\xa6\xe0\xa5\x81\xe0\xa4\xb2') had 10 occurrences
+compression ratio: 9.75X
+merge 3191/4744: (1317, 939) -> 3446 (b' \xe0\xa4\xa5\xe0\xa5\x8b\xe0\xa4\xae\xe0\xa4\xbe') had 10 occurrences
+compression ratio: 9.75X
+merge 3196/4744: (1336, 3296) -> 3451 (b' \xe0\xa4\xac\xe0\xa4\xb0\xe0\xa4\x85\xe0\xa4\xac\xe0\xa5\x8d\xe0\xa4\xac\xe0\xa4\xbe') had 10 occurrences
+compression ratio: 9.75X
+merge 3201/4744: (482, 261) -> 3456 (b' \xe0\xa4\xb8\xe0\xa5\x81\xe0\xa4\xb0') had 9 occurrences
+compression ratio: 9.75X
+merge 3206/4744: (788, 3155) -> 3461 (b' \xe0\xa4\xb8\xe0\xa4\x82\xe0\xa4\x95\xe0\xa5\x87\xe0\xa4\xa4') had 9 occurrences
+compression ratio: 9.75X
+merge 3211/4744: (2315, 920) -> 3466 (b' \xe0\xa4\xae\xe0\xa4\x9b\xe0\xa4\xb2\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\x81') had 9 occurrences
+compression ratio: 9.76X
+merge 3216/4744: (2144, 1163) -> 3471 (b' \xe0\xa4\xb5\xe0\xa4\xbf\xe0\xa4\xaa\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xa4') had 9 occurrences
+compression ratio: 9.76X
+merge 3221/4744: (2830, 259) -> 3476 (b' \xe0\xa4\x9a\xe0\xa4\xb0\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xb9\xe0\xa4\xbe') had 9 occurrences
+compression ratio: 9.76X
+merge 3226/4744: (580, 957) -> 3481 (b' \xe0\xa4\x89\xe0\xa4\xa0\xe0\xa4\xbe\xe0\xa4\xa8\xe0\xa4\xbe') had 9 occurrences
+compression ratio: 9.76X
+merge 3231/4744: (276, 291) -> 3486 (b'\xe0\xa4\xa4\xe0\xa4\xa8\xe0\xa5\x87') had 9 occurrences
+compression ratio: 9.76X
+merge 3236/4744: (925, 1153) -> 3491 (b' \xe0\xa4\x9c\xe0\xa4\xbe\xe0\xa4\x8f\xe0\xa4\x81\xe0\xa4\x97\xe0\xa5\x80\xe0\xa5\xa4') had 9 occurrences
+compression ratio: 9.77X
+merge 3241/4744: (1945, 2657) -> 3496 (b'\xe0\xa4\x95\xe0\xa5\x8d\xe0\xa4\xb7\xe0\xa4\xbf\xe0\xa4\xa3') had 9 occurrences
+compression ratio: 9.77X
+merge 3246/4744: (3202, 350) -> 3501 (b' \xe0\xa4\x9f\xe0\xa5\x87\xe0\xa4\x95\xe0\xa4\x95\xe0\xa4\xb0') had 9 occurrences
+compression ratio: 9.77X
+merge 3251/4744: (300, 462) -> 3506 (b' \xe0\xa4\xac\xe0\xa4\xbf\xe0\xa4\xb2') had 9 occurrences
+compression ratio: 9.77X
+merge 3256/4744: (2947, 1124) -> 3511 (b' \xe0\xa4\xaa\xe0\xa4\xb2\xe0\xa4\x9f\xe0\xa4\xbe') had 9 occurrences
+compression ratio: 9.77X
+merge 3261/4744: (580, 477) -> 3516 (b' \xe0\xa4\x89\xe0\xa4\xa0\xe0\xa4\xbe\xe0\xa4\x88') had 9 occurrences
+compression ratio: 9.78X
+merge 3266/4744: (1294, 581) -> 3521 (b' \xe0\xa4\x97\xe0\xa4\xb2\xe0\xa5\x80\xe0\xa4\xb2\xe0\xa5\x80') had 9 occurrences
+compression ratio: 9.78X
+merge 3271/4744: (261, 481) -> 3526 (b'\xe0\xa4\xb0\xe0\xa4\xbe\xe0\xa4\x9c') had 9 occurrences
+compression ratio: 9.78X
+merge 3276/4744: (328, 456) -> 3531 (b' \xe0\xa4\xb0\xe0\xa5\x8c') had 9 occurrences
+compression ratio: 9.78X
+merge 3281/4744: (3535, 966) -> 3536 (b' \xe0\xa4\xaa\xe0\xa4\xb0\xe0\xa4\xae\xe0\xa4\xaa\xe0\xa5\x8d\xe0\xa4\xb0\xe0\xa4\xa7\xe0\xa4\xbe\xe0\xa4\xa8') had 9 occurrences
+compression ratio: 9.78X
+merge 3286/4744: (750, 3370) -> 3541 (b' \xe0\xa4\xb8\xe0\xa5\x8d\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xad\xe0\xa4\xbe\xe0\xa4\xb5\xe0\xa4\xbf\xe0\xa4\x95') had 9 occurrences
+compression ratio: 9.79X
+merge 3291/4744: (3545, 450) -> 3546 (b'\xe0\xa4\xaa\xe0\xa5\x8b\xe0\xa4\xb7\xe0\xa4\xa3') had 9 occurrences
+compression ratio: 9.79X
+merge 3296/4744: (272, 413) -> 3551 (b'\xe0\xa4\xb8\xe0\xa5\x8d\xe0\xa4\xae') had 9 occurrences
+compression ratio: 9.79X
+merge 3301/4744: (1063, 450) -> 3556 (b' \xe0\xa4\xa7\xe0\xa4\xbe\xe0\xa4\xb0\xe0\xa4\xa3') had 9 occurrences
+compression ratio: 9.79X
+merge 3306/4744: (2875, 350) -> 3561 (b' \xe0\xa4\x9d\xe0\xa5\x81\xe0\xa4\x95\xe0\xa4\x95\xe0\xa4\xb0') had 9 occurrences
+compression ratio: 9.79X
+merge 3311/4744: (1619, 362) -> 3566 (b' \xe0\xa4\xa8\xe0\xa4\xbf\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\xa6\xe0\xa5\x87\xe0\xa4\xb6') had 9 occurrences
+compression ratio: 9.80X
+merge 3316/4744: (370, 822) -> 3571 (b'\xe0\xa4\x9c\xe0\xa4\xb9\xe0\xa4\xbe\xe0\xa4\x81') had 9 occurrences
+compression ratio: 9.80X
+merge 3321/4744: (829, 477) -> 3576 (b' \xe0\xa4\x9a\xe0\xa4\xa2\xe0\xa4\xbc\xe0\xa4\xbe\xe0\xa4\x88') had 9 occurrences
+compression ratio: 9.80X
+merge 3326/4744: (2224, 3411) -> 3581 (b' \xe0\xa4\x89\xe0\xa4\xb2\xe0\xa4\xbe\xe0\xa4\xb9\xe0\xa4\xa8\xe0\xa4\xbe') had 9 occurrences
+compression ratio: 9.80X
+merge 3331/4744: (3120, 292) -> 3586 (b' \xe0\xa4\x97\xe0\xa4\xb0\xe0\xa5\x80\xe0\xa4\xac\xe0\xa5\x8b\xe0\xa4\x82') had 9 occurrences
+compression ratio: 9.80X
+merge 3336/4744: (1195, 292) -> 3591 (b' \xe0\xa4\xb8\xe0\xa4\xa8\xe0\xa5\x8d\xe0\xa4\xa4\xe0\xa4\xbe\xe0\xa4\xa8\xe0\xa5\x8b\xe0\xa4\x82') had 9 occurrences
+compression ratio: 9.80X
+merge 3341/4744: (2260, 329) -> 3596 (b' \xe0\xa4\x9a\xe0\xa4\xbe\xe0\xa4\x81\xe0\xa4\xa6') had 9 occurrences
+compression ratio: 9.81X
+merge 3346/4744: (740, 377) -> 3601 (b' \xe0\xa4\xb0\xe0\xa5\x8b\xe0\xa4\xa8\xe0\xa4\xbe') had 9 occurrences
+compression ratio: 9.81X
+merge 3351/4744: (882, 302) -> 3606 (b' \xe0\xa4\x86\xe0\xa4\x81\xe0\xa4\x97') had 9 occurrences
+compression ratio: 9.81X
+merge 3356/4744: (648, 920) -> 3611 (b' \xe0\xa4\xa1\xe0\xa4\xbe\xe0\xa4\xb2\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\x81') had 9 occurrences
+compression ratio: 9.81X
+merge 3361/4744: (1336, 276) -> 3616 (b' \xe0\xa4\xac\xe0\xa4\xb0\xe0\xa4\xa4') had 9 occurrences
+compression ratio: 9.81X
+merge 3366/4744: (1479, 536) -> 3621 (b' \xe0\xa4\xac\xe0\xa5\x80\xe0\xa4\xae\xe0\xa4\xbe\xe0\xa4\xb0\xe0\xa5\x80') had 9 occurrences
+compression ratio: 9.82X
+merge 3371/4744: (279, 409) -> 3626 (b' \xe0\xa4\xae\xe0\xa4\xa7') had 9 occurrences
+compression ratio: 9.82X
+merge 3376/4744: (3630, 302) -> 3631 (b' \xe0\xa4\xac\xe0\xa5\x88\xe0\xa4\x82\xe0\xa4\x97') had 9 occurrences
+compression ratio: 9.82X
+merge 3381/4744: (917, 601) -> 3636 (b' \xe0\xa4\x95\xe0\xa4\xbf\xe0\xa4\xb8\xe0\xa4\x95\xe0\xa5\x8b') had 9 occurrences
+compression ratio: 9.82X
+merge 3386/4744: (580, 564) -> 3641 (b' \xe0\xa4\x89\xe0\xa4\xa0\xe0\xa4\xbe\xe0\xa4\xa8\xe0\xa5\x87') had 9 occurrences
+compression ratio: 9.82X
+merge 3391/4744: (3645, 259) -> 3646 (b' \xe0\xa4\x8f\xe0\xa4\xb2\xe0\xa5\x80\xe0\xa4\xb6\xe0\xa4\xbf\xe0\xa4\xac\xe0\xa4\xbe') had 9 occurrences
+compression ratio: 9.83X
+merge 3396/4744: (1582, 477) -> 3651 (b' \xe0\xa4\x95\xe0\xa4\xae\xe0\xa4\xbe\xe0\xa4\x88') had 8 occurrences
+compression ratio: 9.83X
+merge 3401/4744: (1911, 2905) -> 3656 (b' \xe0\xa4\xaa\xe0\xa4\x95\xe0\xa5\x8d\xe0\xa4\xb7\xe0\xa4\xaa\xe0\xa4\xbe\xe0\xa4\xa4') had 8 occurrences
+compression ratio: 9.83X
+merge 3406/4744: (1146, 291) -> 3661 (b' \xe0\xa4\xac\xe0\xa4\xa8\xe0\xa4\xbe\xe0\xa4\xa8\xe0\xa5\x87') had 8 occurrences
+compression ratio: 9.83X
+merge 3411/4744: (3665, 275) -> 3666 (b'\xe0\xa4\xa6\xe0\xa4\xbe\xe0\xa4\xaf\xe0\xa4\x95') had 8 occurrences
+compression ratio: 9.83X
+merge 3416/4744: (311, 389) -> 3671 (b' \xe0\xa4\xaa\xe0\xa4\xb0\xe0\xa4\xbe\xe0\xa4\x8f') had 8 occurrences
+compression ratio: 9.84X
+merge 3421/4744: (983, 377) -> 3676 (b' \xe0\xa4\xb8\xe0\xa5\x8b\xe0\xa4\xa8\xe0\xa4\xbe') had 8 occurrences
+compression ratio: 9.84X
+merge 3426/4744: (1340, 358) -> 3681 (b'\n\xe0\xa4\x9c\xe0\xa4\xbf\xe0\xa4\xb8\xe0\xa4\xb8\xe0\xa5\x87') had 8 occurrences
+compression ratio: 9.84X
+merge 3431/4744: (403, 319) -> 3686 (b'\xe0\xa4\xad\xe0\xa4\xb5') had 8 occurrences
+compression ratio: 9.84X
+merge 3436/4744: (3690, 270) -> 3691 (b' \xe0\xa4\xa8\xe0\xa5\x8d\xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\xa7\xe0\xa5\x80') had 8 occurrences
+compression ratio: 9.84X
+merge 3441/4744: (1828, 354) -> 3696 (b' \xe0\xa4\x9a\xe0\xa5\x81\xe0\xa4\xaa\xe0\xa4\x9a') had 8 occurrences
+compression ratio: 9.84X
+merge 3446/4744: (313, 3336) -> 3701 (b' \xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\xab\xe0\xa4\xbe') had 8 occurrences
+compression ratio: 9.85X
+merge 3451/4744: (494, 822) -> 3706 (b'\n\xe0\xa4\x9c\xe0\xa4\xb9\xe0\xa4\xbe\xe0\xa4\x81') had 8 occurrences
+compression ratio: 9.85X
+merge 3456/4744: (1190, 399) -> 3711 (b'\n\xe0\xa4\x95\xe0\xa4\xbf\xe0\xa4\xb8\xe0\xa5\x80') had 8 occurrences
+compression ratio: 9.85X
+merge 3461/4744: (2949, 428) -> 3716 (b' \xe0\xa4\x96\xe0\xa5\x8b\xe0\xa4\x8f\xe0\xa4\x97\xe0\xa4\xbe') had 8 occurrences
+compression ratio: 9.85X
+merge 3466/4744: (293, 1452) -> 3721 (b' \xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xa3\xe0\xa5\x80') had 8 occurrences
+compression ratio: 9.85X
+merge 3471/4744: (1025, 1457) -> 3726 (b' \xe0\xa4\xb8\xe0\xa5\x8d\xe0\xa4\xa5\xe0\xa4\xbe\xe0\xa4\xa8\xe0\xa5\x8b\xe0\xa4\x82') had 8 occurrences
+compression ratio: 9.85X
+merge 3476/4744: (2595, 643) -> 3731 (b' \xe0\xa4\x9c\xe0\xa5\x8b\xe0\xa4\x96\xe0\xa4\xbf\xe0\xa4\xae') had 8 occurrences
+compression ratio: 9.86X
+merge 3481/4744: (1739, 350) -> 3736 (b' \xe0\xa4\xae\xe0\xa5\x81\xe0\xa4\x95\xe0\xa4\xb0') had 8 occurrences
+compression ratio: 9.86X
+merge 3486/4744: (1055, 323) -> 3741 (b' \xe0\xa4\xa6\xe0\xa5\x81\xe0\xa4\xb7\xe0\xa5\x8d\xe0\xa4\x9f\xe0\xa4\xa4\xe0\xa4\xbe') had 8 occurrences
+compression ratio: 9.86X
+merge 3491/4744: (321, 1784) -> 3746 (b' \xe0\xa4\x95\xe0\xa5\x8b\xe0\xa4\xa2\xe0\xa4\xbc\xe0\xa5\x80') had 8 occurrences
+compression ratio: 9.86X
+merge 3496/4744: (317, 3551) -> 3751 (b' \xe0\xa4\xad\xe0\xa4\xb8\xe0\xa5\x8d\xe0\xa4\xae') had 8 occurrences
+compression ratio: 9.86X
+merge 3501/4744: (3755, 345) -> 3756 (b' \xe0\xa4\xa5\xe0\xa4\xaa\xe0\xa5\x8d\xe0\xa4\xaa\xe0\xa4\xa1\xe0\xa4\xbc') had 8 occurrences
+compression ratio: 9.86X
+merge 3506/4744: (315, 1754) -> 3761 (b'\xe0\xa4\xb6\xe0\xa5\x81\xe0\xa4\x93\xe0\xa4\x82') had 8 occurrences
+compression ratio: 9.87X
+merge 3511/4744: (893, 260) -> 3766 (b' \xe0\xa4\x9f\xe0\xa5\x87') had 8 occurrences
+compression ratio: 9.87X
+merge 3516/4744: (318, 273) -> 3771 (b'\xe0\xa4\xac\xe0\xa4\xb9') had 8 occurrences
+compression ratio: 9.87X
+merge 3521/4744: (1931, 265) -> 3776 (b' \xe0\xa4\x95\xe0\xa5\x81\xe0\xa4\xb0\xe0\xa4\xbf') had 8 occurrences
+compression ratio: 9.87X
+merge 3526/4744: (769, 266) -> 3781 (b' \xe0\xa4\x9a\xe0\xa4\xb2\xe0\xa5\x8b') had 8 occurrences
+compression ratio: 9.87X
+merge 3531/4744: (2300, 447) -> 3786 (b' \xe0\xa4\xaa\xe0\xa4\xbe\xe0\xa4\x93\xe0\xa4\x97\xe0\xa5\x87') had 8 occurrences
+compression ratio: 9.88X
+merge 3536/4744: (750, 3409) -> 3791 (b' \xe0\xa4\xb8\xe0\xa5\x8d\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xae\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa5\x8b\xe0\xa4\x82') had 8 occurrences
+compression ratio: 9.88X
+merge 3541/4744: (276, 2338) -> 3796 (b'\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xb8\xe0\xa4\xbe\xe0\xa4\xb9') had 8 occurrences
+compression ratio: 9.88X
+merge 3546/4744: (274, 275) -> 3801 (b' \xe0\xa4\xb9\xe0\xa4\x95') had 8 occurrences
+compression ratio: 9.88X
+merge 3551/4744: (3805, 1073) -> 3806 (b' \xe0\xa4\xb8\xe0\xa5\x8d\xe0\xa4\xb5\xe0\xa4\xaa\xe0\xa5\x8d\xe0\xa4\xa8') had 8 occurrences
+compression ratio: 9.88X
+merge 3556/4744: (341, 1947) -> 3811 (b' \xe0\xa4\x9a\xe0\xa4\x95\xe0\xa5\x8d\xe0\xa4\x95') had 8 occurrences
+compression ratio: 9.88X
+merge 3561/4744: (491, 1880) -> 3816 (b'\xe0\xa5\x83\xe0\xa4\xb7\xe0\xa5\x8d\xe0\xa4\x9f\xe0\xa4\xbf') had 8 occurrences
+compression ratio: 9.89X
+merge 3566/4744: (457, 462) -> 3821 (b' \xe0\xa4\xaa\xe0\xa4\xb9\xe0\xa4\xbf\xe0\xa4\xb2') had 8 occurrences
+compression ratio: 9.89X
+merge 3571/4744: (810, 287) -> 3826 (b' \xe0\xa4\x9c\xe0\xa4\xbe\xe0\xa4\xa8\xe0\xa4\xa4\xe0\xa5\x87\xe0\xa5\xa4') had 8 occurrences
+compression ratio: 9.89X
+merge 3576/4744: (3830, 956) -> 3831 (b' \xe0\xa4\xac\xe0\xa5\x88\xe0\xa4\xa4\xe0\xa4\xb2\xe0\xa4\xb9\xe0\xa4\xae') had 8 occurrences
+compression ratio: 9.89X
+merge 3581/4744: (721, 3389) -> 3836 (b' \xe0\xa4\xae\xe0\xa4\xb0\xe0\xa4\x95\xe0\xa5\x81\xe0\xa4\xb8') had 8 occurrences
+compression ratio: 9.89X
+merge 3586/4744: (1706, 287) -> 3841 (b' \xe0\xa4\xb2\xe0\xa5\x80\xe0\xa5\xa4') had 8 occurrences
+compression ratio: 9.89X
+merge 3591/4744: (721, 323) -> 3846 (b' \xe0\xa4\xae\xe0\xa4\xb0\xe0\xa4\xa4\xe0\xa4\xbe') had 8 occurrences
+compression ratio: 9.90X
+merge 3596/4744: (312, 397) -> 3851 (b'\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\xb9') had 8 occurrences
+compression ratio: 9.90X
+merge 3601/4744: (277, 385) -> 3856 (b' \xe0\xa4\xaa\xe0\xa5\x82\xe0\xa4\x81') had 8 occurrences
+compression ratio: 9.90X
+merge 3606/4744: (424, 3643) -> 3861 (b' \xe0\xa4\xab\xe0\xa5\x87\xe0\xa4\xb2\xe0\xa4\xbf\xe0\xa4\x95\xe0\xa5\x8d\xe0\xa4\xb8') had 8 occurrences
+compression ratio: 9.90X
+merge 3611/4744: (2900, 676) -> 3866 (b' \xe0\xa4\xac\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\xa4\xe0\xa4\xbe\xe0\xa4\xb5') had 7 occurrences
+compression ratio: 9.90X
+merge 3616/4744: (491, 1031) -> 3871 (b'\xe0\xa5\x83\xe0\xa4\xb6\xe0\xa5\x8d\xe0\xa4\xaf') had 7 occurrences
+compression ratio: 9.91X
+merge 3621/4744: (639, 266) -> 3876 (b'\xe0\xa4\xa5\xe0\xa5\x8b') had 7 occurrences
+compression ratio: 9.91X
+merge 3626/4744: (476, 357) -> 3881 (b' \xe0\xa4\xb2\xe0\xa5\x87\xe0\xa4\x96') had 7 occurrences
+compression ratio: 9.91X
+merge 3631/4744: (277, 950) -> 3886 (b' \xe0\xa4\xaa\xe0\xa4\xbe\xe0\xa4\x97') had 7 occurrences
+compression ratio: 9.91X
+merge 3636/4744: (796, 500) -> 3891 (b' \xe0\xa4\xac\xe0\xa4\xa8\xe0\xa4\xbe\xe0\xa4\xa4\xe0\xa4\xbe') had 7 occurrences
+compression ratio: 9.91X
+merge 3641/4744: (2381, 292) -> 3896 (b' \xe0\xa4\xae\xe0\xa5\x81\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\xa6\xe0\xa5\x8b\xe0\xa4\x82') had 7 occurrences
+compression ratio: 9.91X
+merge 3646/4744: (904, 259) -> 3901 (b' \xe0\xa4\xac\xe0\xa4\xa2\xe0\xa4\xbc\xe0\xa4\xbe') had 7 occurrences
+compression ratio: 9.91X
+merge 3651/4744: (295, 3496) -> 3906 (b' \xe0\xa4\xa6\xe0\xa4\x95\xe0\xa5\x8d\xe0\xa4\xb7\xe0\xa4\xbf\xe0\xa4\xa3') had 7 occurrences
+compression ratio: 9.92X
+merge 3656/4744: (3910, 1798) -> 3911 (b' \xe0\xa4\xb6\xe0\xa4\xb9\xe0\xa4\xb0\xe0\xa4\xaa\xe0\xa4\xa8') had 7 occurrences
+compression ratio: 9.92X
+merge 3661/4744: (283, 302) -> 3916 (b' \xe0\xa4\x89\xe0\xa4\x97') had 7 occurrences
+compression ratio: 9.92X
+merge 3666/4744: (303, 635) -> 3921 (b'\xe0\xa5\x82\xe0\xa4\x95\xe0\xa4\xbe') had 7 occurrences
+compression ratio: 9.92X
+merge 3671/4744: (338, 738) -> 3926 (b' \xe0\xa4\xaa\xe0\xa5\x8d\xe0\xa4\xb0\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xaf') had 7 occurrences
+compression ratio: 9.92X
+merge 3676/4744: (522, 822) -> 3931 (b'\n\xe0\xa4\xaf\xe0\xa4\xb9\xe0\xa4\xbe\xe0\xa4\x81') had 7 occurrences
+compression ratio: 9.92X
+merge 3681/4744: (1401, 261) -> 3936 (b'\xe0\xa4\x98\xe0\xa4\xb0') had 7 occurrences
+compression ratio: 9.93X
+merge 3686/4744: (1185, 346) -> 3941 (b'\xe0\xa4\x87\xe0\xa4\xb8\xe0\xa4\x95\xe0\xa5\x87') had 7 occurrences
+compression ratio: 9.93X
+merge 3691/4744: (344, 280) -> 3946 (b' \xe0\xa4\xa5\xe0\xa4\xae') had 7 occurrences
+compression ratio: 9.93X
+merge 3696/4744: (464, 1040) -> 3951 (b' \xe0\xa4\xa6\xe0\xa5\x87\xe0\xa4\x96\xe0\xa5\x87\xe0\xa4\x82\xe0\xa4\x97\xe0\xa5\x87') had 7 occurrences
+compression ratio: 9.93X
+merge 3701/4744: (483, 2239) -> 3956 (b' \xe0\xa4\x85\xe0\xa4\xa8\xe0\xa4\xbe\xe0\xa4\xa6\xe0\xa4\xb0') had 7 occurrences
+compression ratio: 9.93X
+merge 3706/4744: (1437, 480) -> 3961 (b' \xe0\xa4\xa2\xe0\xa5\x82\xe0\xa4\x81\xe0\xa4\xa2\xe0\xa4\xbc\xe0\xa4\xa4\xe0\xa5\x80') had 7 occurrences
+compression ratio: 9.93X
+merge 3711/4744: (370, 3750) -> 3966 (b'\xe0\xa4\x9c\xe0\xa5\x8d\xe0\xa4\xb5\xe0\xa4\xb2') had 7 occurrences
+compression ratio: 9.93X
+merge 3716/4744: (1931, 260) -> 3971 (b' \xe0\xa4\x95\xe0\xa5\x81\xe0\xa4\xb0\xe0\xa5\x87') had 7 occurrences
+compression ratio: 9.94X
+merge 3721/4744: (283, 403) -> 3976 (b' \xe0\xa4\x89\xe0\xa4\xad') had 7 occurrences
+compression ratio: 9.94X
+merge 3726/4744: (277, 3573) -> 3981 (b' \xe0\xa4\xaa\xe0\xa4\x9a\xe0\xa4\xbe\xe0\xa4\xb8') had 7 occurrences
+compression ratio: 9.94X
+merge 3731/4744: (3778, 868) -> 3986 (b' \xe0\xa4\xb8\xe0\xa5\x8d\xe0\xa4\xaa\xe0\xa4\xb7\xe0\xa5\x8d\xe0\xa4\x9f') had 7 occurrences
+compression ratio: 9.94X
+merge 3736/4744: (1524, 269) -> 3991 (b' \xe0\xa4\x86\xe0\xa4\x88\xe0\xa4\x82') had 7 occurrences
+compression ratio: 9.94X
+merge 3741/4744: (396, 178) -> 3996 (b' \xe0\xa4\xb9\xe0\xa5\x81\xe0\xa4\xb2') had 7 occurrences
+compression ratio: 9.94X
+merge 3746/4744: (3116, 259) -> 4001 (b' \xe0\xa4\x8a\xe0\xa4\x81\xe0\xa4\x9a\xe0\xa4\xbe') had 7 occurrences
+compression ratio: 9.95X
+merge 3751/4744: (344, 1953) -> 4006 (b' \xe0\xa4\xa5\xe0\xa5\x82\xe0\xa4\x95') had 7 occurrences
+compression ratio: 9.95X
+merge 3756/4744: (1216, 292) -> 4011 (b' \xe0\xa4\x9c\xe0\xa5\x80\xe0\xa4\xb5\xe0\xa4\xbf\xe0\xa4\xa4\xe0\xa5\x8b\xe0\xa4\x82') had 7 occurrences
+compression ratio: 9.95X
+merge 3761/4744: (324, 259) -> 4016 (b' \xe0\xa4\x95\xe0\xa4\xb0\xe0\xa4\xbe') had 7 occurrences
+compression ratio: 9.95X
+merge 3766/4744: (4020, 2166) -> 4021 (b' \xe0\xa4\x97\xe0\xa5\x8d\xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\xb0\xe0\xa4\xb9') had 7 occurrences
+compression ratio: 9.95X
+merge 3771/4744: (261, 445) -> 4026 (b'\xe0\xa4\xb0\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa5\x8b\xe0\xa4\x82') had 7 occurrences
+compression ratio: 9.95X
+merge 3776/4744: (476, 264) -> 4031 (b' \xe0\xa4\xb2\xe0\xa5\x87\xe0\xa4\xa8') had 7 occurrences
+compression ratio: 9.95X
+merge 3781/4744: (1597, 160) -> 4036 (b' \xe0\xa4\xb8\xe0\xa4\xbe\xe0\xa4\xa0') had 7 occurrences
+compression ratio: 9.96X
+merge 3786/4744: (3382, 303) -> 4041 (b' \xe0\xa4\x86\xe0\xa4\x81\xe0\xa4\xb8\xe0\xa5\x82') had 7 occurrences
+compression ratio: 9.96X
+merge 3791/4744: (1471, 287) -> 4046 (b' \xe0\xa4\xb0\xe0\xa4\xb9\xe0\xa5\x80\xe0\xa5\xa4') had 7 occurrences
+compression ratio: 9.96X
+merge 3796/4744: (4050, 636) -> 4051 (b' \xe0\xa4\xaa\xe0\xa4\xb0\xe0\xa4\xae\xe0\xa5\x8d\xe0\xa4\xaa\xe0\xa4\xb0\xe0\xa4\xbe\xe0\xa4\x93\xe0\xa4\x82') had 7 occurrences
+compression ratio: 9.96X
+merge 3801/4744: (286, 383) -> 4056 (b' \xe0\xa4\xa4\xe0\xa4\xbf\xe0\xa4\xb0') had 7 occurrences
+compression ratio: 9.96X
+merge 3806/4744: (312, 1278) -> 4061 (b'\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa5\x8d\xe0\xa4\xaf\xe0\xa5\x8b') had 7 occurrences
+compression ratio: 9.96X
+merge 3811/4744: (324, 1517) -> 4066 (b' \xe0\xa4\x95\xe0\xa4\xb0\xe0\xa5\x81\xe0\xa4\xa3') had 7 occurrences
+compression ratio: 9.97X
+merge 3816/4744: (740, 1438) -> 4071 (b' \xe0\xa4\xb0\xe0\xa5\x8b\xe0\xa4\x93') had 7 occurrences
+compression ratio: 9.97X
+merge 3821/4744: (4075, 382) -> 4076 (b'\xe0\xa4\xa6\xe0\xa5\x80\xe0\xa4\x95\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa4\xbe') had 7 occurrences
+compression ratio: 9.97X
+merge 3826/4744: (470, 3396) -> 4081 (b' \xe0\xa4\xa7\xe0\xa5\x88\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\xaf') had 7 occurrences
+compression ratio: 9.97X
+merge 3831/4744: (473, 377) -> 4086 (b' \xe0\xa4\x9c\xe0\xa4\xbe\xe0\xa4\xa8\xe0\xa4\xa8\xe0\xa4\xbe') had 7 occurrences
+compression ratio: 9.97X
+merge 3836/4744: (2698, 2276) -> 4091 (b' \xe0\xa4\x95\xe0\xa5\x81\xe0\xa4\x95\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\xae\xe0\xa5\x80') had 7 occurrences
+compression ratio: 9.97X
+merge 3841/4744: (721, 377) -> 4096 (b' \xe0\xa4\xae\xe0\xa4\xb0\xe0\xa4\xa8\xe0\xa4\xbe') had 7 occurrences
+compression ratio: 9.98X
+merge 3846/4744: (427, 981) -> 4101 (b' \xe0\xa4\xb6\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xb0') had 7 occurrences
+compression ratio: 9.98X
+merge 3851/4744: (998, 2626) -> 4106 (b' \xe0\xa4\xac\xe0\xa4\xbe\xe0\xa4\xb9\xe0\xa4\xb0\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xb2\xe0\xa5\x8b\xe0\xa4\x82') had 6 occurrences
+compression ratio: 9.98X
+merge 3856/4744: (1793, 446) -> 4111 (b' \xe0\xa4\x86\xe0\xa4\x9c\xe0\xa5\x8d\xe0\xa4\x9e\xe0\xa4\xbe\xe0\xa4\x95') had 6 occurrences
+compression ratio: 9.98X
+merge 3861/4744: (3157, 1722) -> 4116 (b' \xe0\xa4\xb6\xe0\xa5\x8b\xe0\xa4\xad\xe0\xa4\xbe') had 6 occurrences
+compression ratio: 9.98X
+merge 3866/4744: (942, 377) -> 4121 (b' \xe0\xa4\xaa\xe0\xa4\x95\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa4\xa8\xe0\xa4\xbe') had 6 occurrences
+compression ratio: 9.98X
+merge 3871/4744: (675, 1438) -> 4126 (b' \xe0\xa4\xaa\xe0\xa5\x80\xe0\xa4\x93') had 6 occurrences
+compression ratio: 9.98X
+merge 3876/4744: (550, 502) -> 4131 (b' \xe0\xa4\xab\xe0\xa4\xbf\xe0\xa4\xb0\xe0\xa4\xbe\xe0\xa4\xaf\xe0\xa4\xbe') had 6 occurrences
+compression ratio: 9.98X
+merge 3881/4744: (4135, 301) -> 4136 (b'\xe0\xa4\xae\xe0\xa5\x81\xe0\xa4\x96\xe0\xa5\x8d\xe0\xa4\xaf') had 6 occurrences
+compression ratio: 9.99X
+merge 3886/4744: (482, 2835) -> 4141 (b' \xe0\xa4\xb8\xe0\xa5\x81\xe0\xa4\xa8\xe0\xa5\x8d\xe0\xa4\xa6\xe0\xa4\xb0') had 6 occurrences
+compression ratio: 9.99X
+merge 3891/4744: (1439, 499) -> 4146 (b' \xe0\xa4\xaa\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa5\x87\xe0\xa4\x97\xe0\xa4\xbe\xe0\xa5\xa4') had 6 occurrences
+compression ratio: 9.99X
+merge 3896/4744: (483, 1073) -> 4151 (b' \xe0\xa4\x85\xe0\xa4\xa8\xe0\xa5\x8d\xe0\xa4\xa8') had 6 occurrences
+compression ratio: 9.99X
+merge 3901/4744: (716, 292) -> 4156 (b' \xe0\xa4\x9d\xe0\xa5\x8b\xe0\xa4\x82') had 6 occurrences
+compression ratio: 9.99X
+merge 3906/4744: (1401, 1507) -> 4161 (b'\xe0\xa4\x98\xe0\xa4\xbe\xe0\xa4\xa4\xe0\xa5\x80') had 6 occurrences
+compression ratio: 9.99X
+merge 3911/4744: (405, 389) -> 4166 (b' \xe0\xa4\x8f\xe0\xa4\x95\xe0\xa4\xbe\xe0\xa4\x8f') had 6 occurrences
+compression ratio: 9.99X
+merge 3916/4744: (4170, 387) -> 4171 (b'\xe0\xa4\xbe\xe0\xa4\x87\xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\x81') had 6 occurrences
+compression ratio: 10.00X
+merge 3921/4744: (470, 1315) -> 4176 (b' \xe0\xa4\xa7\xe0\xa4\xa8\xe0\xa5\x8d\xe0\xa4\xa7') had 6 occurrences
+compression ratio: 10.00X
+merge 3926/4744: (3506, 3918) -> 4181 (b' \xe0\xa4\xac\xe0\xa4\xbf\xe0\xa4\xb2\xe0\xa4\x95\xe0\xa5\x81\xe0\xa4\xb2') had 6 occurrences
+compression ratio: 10.00X
+merge 3931/4744: (781, 2339) -> 4186 (b' \xe0\xa4\xb8\xe0\xa4\xb9\xe0\xa4\xae\xe0\xa4\xa4') had 6 occurrences
+compression ratio: 10.00X
+merge 3936/4744: (1383, 677) -> 4191 (b' \xe0\xa4\xb8\xe0\xa4\xbf\xe0\xa4\x96\xe0\xa4\xbe\xe0\xa4\xa4\xe0\xa5\x87') had 6 occurrences
+compression ratio: 10.00X
+merge 3941/4744: (1478, 500) -> 4196 (b' \xe0\xa4\x9c\xe0\xa4\xbf\xe0\xa4\xb2\xe0\xa4\xbe\xe0\xa4\xa4\xe0\xa4\xbe') had 6 occurrences
+compression ratio: 10.00X
+merge 3946/4744: (3064, 358) -> 4201 (b'\n\xe0\xa4\x9c\xe0\xa4\xbf\xe0\xa4\xb8\xe0\xa5\x87') had 6 occurrences
+compression ratio: 10.00X
+merge 3951/4744: (296, 156) -> 4206 (b'\xe0\xa5\x81\xe0\xa4\x9c') had 6 occurrences
+compression ratio: 10.01X
+merge 3956/4744: (2769, 1200) -> 4211 (b' \xe0\xa4\x95\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\x9c\xe0\xa4\xa6\xe0\xa4\xbe\xe0\xa4\xb0') had 6 occurrences
+compression ratio: 10.01X
+merge 3961/4744: (4215, 410) -> 4216 (b' \xe0\xa4\x85\xe0\xa4\xa8\xe0\xa5\x81\xe0\xa4\x9a\xe0\xa4\xbf\xe0\xa4\xa4') had 6 occurrences
+compression ratio: 10.01X
+merge 3966/4744: (4220, 260) -> 4221 (b' \xe0\xa4\xb8\xe0\xa4\xbe\xe0\xa4\xa2\xe0\xa4\xbc\xe0\xa5\x87') had 6 occurrences
+compression ratio: 10.01X
+merge 3971/4744: (280, 413) -> 4226 (b'\xe0\xa4\xae\xe0\xa5\x8d\xe0\xa4\xae') had 6 occurrences
+compression ratio: 10.01X
+merge 3976/4744: (4230, 477) -> 4231 (b' \xe0\xa4\xb8\xe0\xa4\xbf\xe0\xa4\xa7\xe0\xa4\xbe\xe0\xa4\x88') had 6 occurrences
+compression ratio: 10.01X
+merge 3981/4744: (2728, 1754) -> 4236 (b' \xe0\xa4\xa1\xe0\xa4\xbe\xe0\xa4\x95\xe0\xa5\x81\xe0\xa4\x93\xe0\xa4\x82') had 6 occurrences
+compression ratio: 10.01X
+merge 3986/4744: (580, 500) -> 4241 (b' \xe0\xa4\x89\xe0\xa4\xa0\xe0\xa4\xbe\xe0\xa4\xa4\xe0\xa4\xbe') had 6 occurrences
+compression ratio: 10.01X
+merge 3991/4744: (570, 303) -> 4246 (b'\xe0\xa4\xbe\xe0\xa4\xa6\xe0\xa5\x82') had 6 occurrences
+compression ratio: 10.02X
+merge 3996/4744: (280, 303) -> 4251 (b'\xe0\xa4\xae\xe0\xa5\x82') had 6 occurrences
+compression ratio: 10.02X
+merge 4001/4744: (2335, 1229) -> 4256 (b' \xe0\xa4\xaa\xe0\xa5\x8d\xe0\xa4\xb0\xe0\xa4\xae\xe0\xa5\x81\xe0\xa4\x96') had 6 occurrences
+compression ratio: 10.02X
+merge 4006/4744: (4260, 316) -> 4261 (b' \xe0\xa4\x85\xe0\xa4\x95\xe0\xa5\x8d\xe0\xa4\xb5') had 6 occurrences
+compression ratio: 10.02X
+merge 4011/4744: (648, 266) -> 4266 (b' \xe0\xa4\xa1\xe0\xa4\xbe\xe0\xa4\xb2\xe0\xa5\x8b') had 6 occurrences
+compression ratio: 10.02X
+merge 4016/4744: (295, 2374) -> 4271 (b' \xe0\xa4\xa6\xe0\xa5\x80\xe0\xa4\x82\xe0\xa5\xa4') had 6 occurrences
+compression ratio: 10.02X
+merge 4021/4744: (987, 292) -> 4276 (b' \xe0\xa4\xb6\xe0\xa4\xac\xe0\xa5\x8d\xe0\xa4\xa6\xe0\xa5\x8b\xe0\xa4\x82') had 6 occurrences
+compression ratio: 10.02X
+merge 4026/4744: (399, 394) -> 4281 (b'\xe0\xa4\xb8\xe0\xa5\x80\xe0\xa4\x9f') had 6 occurrences
+compression ratio: 10.03X
+merge 4031/4744: (2067, 355) -> 4286 (b' \xe0\xa4\xa4\xe0\xa5\x8b\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa4\xa4\xe0\xa5\x87') had 6 occurrences
+compression ratio: 10.03X
+merge 4036/4744: (425, 261) -> 4291 (b' \xe0\xa4\x96\xe0\xa4\xb0') had 6 occurrences
+compression ratio: 10.03X
+merge 4041/4744: (3579, 287) -> 4296 (b' \xe0\xa4\xb8\xe0\xa4\x95\xe0\xa5\x8b\xe0\xa5\xa4') had 6 occurrences
+compression ratio: 10.03X
+merge 4046/4744: (278, 323) -> 4301 (b' \xe0\xa4\xb8\xe0\xa4\xa4\xe0\xa4\xbe') had 6 occurrences
+compression ratio: 10.03X
+merge 4051/4744: (580, 2014) -> 4306 (b' \xe0\xa4\x89\xe0\xa4\xa0\xe0\xa5\x87\xe0\xa4\x97\xe0\xa4\xbe\xe0\xa5\xa4') had 6 occurrences
+compression ratio: 10.03X
+merge 4056/4744: (1670, 1313) -> 4311 (b'\xe0\xa4\x85\xe0\xa4\xac\xe0\xa5\x8d\xe0\xa4\xb0\xe0\xa4\xbe\xe0\xa4\xb9\xe0\xa4\xae') had 6 occurrences
+compression ratio: 10.03X
+merge 4061/4744: (324, 1562) -> 4316 (b' \xe0\xa4\x95\xe0\xa4\xb0\xe0\xa4\xa8\xe0\xa5\x87\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xb2\xe0\xa5\x80') had 6 occurrences
+compression ratio: 10.03X
+merge 4066/4744: (1478, 389) -> 4321 (b' \xe0\xa4\x9c\xe0\xa4\xbf\xe0\xa4\xb2\xe0\xa4\xbe\xe0\xa4\x8f') had 6 occurrences
+compression ratio: 10.04X
+merge 4071/4744: (1629, 986) -> 4326 (b' \xe0\xa4\xb2\xe0\xa5\x8c\xe0\xa4\x9f\xe0\xa5\x87\xe0\xa5\xa4') had 6 occurrences
+compression ratio: 10.04X
+merge 4076/4744: (4330, 266) -> 4331 (b' \xe0\xa4\x85\xe0\xa4\x81\xe0\xa4\x97\xe0\xa5\x8b') had 6 occurrences
+compression ratio: 10.04X
+merge 4081/4744: (307, 1817) -> 4336 (b' \xe0\xa4\xb2\xe0\xa4\xbe\xe0\xa4\x93\xe0\xa5\xa4') had 6 occurrences
+compression ratio: 10.04X
+merge 4086/4744: (340, 455) -> 4341 (b' \xe0\xa4\x97\xe0\xa4\xb2\xe0\xa5\x87') had 6 occurrences
+compression ratio: 10.04X
+merge 4091/4744: (796, 351) -> 4346 (b' \xe0\xa4\xac\xe0\xa4\xa8\xe0\xa4\xbe\xe0\xa5\xa4') had 6 occurrences
+compression ratio: 10.04X
+merge 4096/4744: (1309, 318) -> 4351 (b' \xe0\xa4\x9a\xe0\xa5\x8c\xe0\xa4\xac') had 6 occurrences
+compression ratio: 10.04X
+merge 4101/4744: (4355, 2523) -> 4356 (b'\xe0\xa4\xa4\xe0\xa4\xa8\xe0\xa4\x8f\xe0\xa4\xb2') had 6 occurrences
+compression ratio: 10.05X
+merge 4106/4744: (3261, 266) -> 4361 (b' \xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xb0\xe0\xa5\x8b') had 6 occurrences
+compression ratio: 10.05X
+merge 4111/4744: (307, 778) -> 4366 (b' \xe0\xa4\xb2\xe0\xa4\xbf\xe0\xa4\xaa') had 6 occurrences
+compression ratio: 10.05X
+merge 4116/4744: (2084, 626) -> 4371 (b' \xe0\xa4\x85\xe0\xa4\xb0\xe0\xa4\xa4\xe0\xa4\xbf') had 6 occurrences
+compression ratio: 10.05X
+merge 4121/4744: (360, 3257) -> 4376 (b' \xe0\xa4\xa8\xe0\xa5\x87\xe0\xa4\xb5\xe0\xa4\xa4\xe0\xa4\xbe') had 6 occurrences
+compression ratio: 10.05X
+merge 4126/4744: (278, 4062) -> 4381 (b' \xe0\xa4\xb8\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa5\x8d\xe0\xa4\xaf\xe0\xa5\x8b\xe0\xa4\xa8') had 6 occurrences
+compression ratio: 10.05X
+merge 4131/4744: (286, 671) -> 4386 (b' \xe0\xa4\xa4\xe0\xa5\x81\xe0\xa4\xb2') had 6 occurrences
+compression ratio: 10.05X
+merge 4136/4744: (340, 1825) -> 4391 (b' \xe0\xa4\x97\xe0\xa4\xbe\xe0\xa4\xb2\xe0\xa5\x80') had 6 occurrences
+compression ratio: 10.06X
+merge 4141/4744: (498, 452) -> 4396 (b' \xe0\xa4\x9b\xe0\xa4\xa0') had 6 occurrences
+compression ratio: 10.06X
+merge 4146/4744: (10, 468) -> 4401 (b'\n\xe0\xa4\xa8\xe0\xa5\x80') had 6 occurrences
+compression ratio: 10.06X
+merge 4151/4744: (801, 565) -> 4406 (b' \xe0\xa4\x9c\xe0\xa5\x80\xe0\xa4\xb5\xe0\xa4\xbf\xe0\xa4\xa4\xe0\xa4\xbe') had 6 occurrences
+compression ratio: 10.06X
+merge 4156/4744: (4410, 2081) -> 4411 (b' \xe0\xa4\xae\xe0\xa4\xb0\xe0\xa4\xa8\xe0\xa4\xb9\xe0\xa4\xbe\xe0\xa4\xb0') had 6 occurrences
+compression ratio: 10.06X
+merge 4161/4744: (1309, 4084) -> 4416 (b' \xe0\xa4\x9a\xe0\xa5\x8c\xe0\xa4\xa6\xe0\xa4\xb9') had 6 occurrences
+compression ratio: 10.06X
+merge 4166/4744: (2422, 700) -> 4421 (b' \xe0\xa4\xaa\xe0\xa4\x95\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xa8\xe0\xa5\x87\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xb2\xe0\xa5\x87') had 6 occurrences
+compression ratio: 10.06X
+merge 4171/4744: (2848, 270) -> 4426 (b' \xe0\xa4\x9a\xe0\xa4\xbf\xe0\xa4\x9f\xe0\xa5\x8d\xe0\xa4\xa0\xe0\xa5\x80') had 6 occurrences
+compression ratio: 10.07X
+merge 4176/4744: (1958, 570) -> 4431 (b' \xe0\xa4\xaa\xe0\xa5\x8d\xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\xa6') had 6 occurrences
+compression ratio: 10.07X
+merge 4181/4744: (1809, 290) -> 4436 (b' \xe0\xa4\xa4\xe0\xa4\xb2\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xb0\xe0\xa5\x87\xe0\xa4\x82') had 6 occurrences
+compression ratio: 10.07X
+merge 4186/4744: (1474, 1774) -> 4441 (b' \xe0\xa4\x85\xe0\xa4\xad\xe0\xa4\xbf\xe0\xa4\xae\xe0\xa4\xbe\xe0\xa4\xa8') had 5 occurrences
+compression ratio: 10.07X
+merge 4191/4744: (851, 3875) -> 4446 (b' \xe0\xa4\xad\xe0\xa4\xbe\xe0\xa4\x88\xe0\xa4\x9a\xe0\xa4\xbe\xe0\xa4\xb0\xe0\xa5\x87') had 5 occurrences
+compression ratio: 10.07X
+merge 4196/4744: (469, 1150) -> 4451 (b'\n\xe0\xa4\xa4\xe0\xa5\x80\xe0\xa4\xb8') had 5 occurrences
+compression ratio: 10.07X
+merge 4201/4744: (2645, 287) -> 4456 (b' \xe0\xa4\xaa\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa5\x80\xe0\xa5\xa4') had 5 occurrences
+compression ratio: 10.07X
+merge 4206/4744: (1753, 499) -> 4461 (b' \xe0\xa4\xae\xe0\xa4\xbf\xe0\xa4\xb2\xe0\xa5\x87\xe0\xa4\x97\xe0\xa4\xbe\xe0\xa5\xa4') had 5 occurrences
+compression ratio: 10.07X
+merge 4211/4744: (505, 579) -> 4466 (b' \xe0\xa4\x98\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa4\xbe') had 5 occurrences
+compression ratio: 10.07X
+merge 4216/4744: (261, 3899) -> 4471 (b'\xe0\xa4\xb0\xe0\xa5\x82\xe0\xa4\xaa\xe0\xa5\x80') had 5 occurrences
+compression ratio: 10.08X
+merge 4221/4744: (323, 287) -> 4476 (b'\xe0\xa4\xa4\xe0\xa4\xbe\xe0\xa5\xa4') had 5 occurrences
+compression ratio: 10.08X
+merge 4226/4744: (1867, 445) -> 4481 (b'\xe0\xa4\xb5\xe0\xa4\xbf\xe0\xa4\xb6\xe0\xa5\x8d\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xb8\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa5\x8b\xe0\xa4\x82') had 5 occurrences
+compression ratio: 10.08X
+merge 4231/4744: (3905, 643) -> 4486 (b' \xe0\xa4\xaa\xe0\xa4\xb6\xe0\xa5\x8d\xe0\xa4\x9a\xe0\xa4\xbf\xe0\xa4\xae') had 5 occurrences
+compression ratio: 10.08X
+merge 4236/4744: (2388, 438) -> 4491 (b' \xe0\xa4\xa4\xe0\xa4\xb0\xe0\xa4\xb8\xe0\xa5\x81\xe0\xa4\xb8') had 5 occurrences
+compression ratio: 10.08X
+merge 4241/4744: (797, 269) -> 4496 (b' \xe0\xa4\xb9\xe0\xa5\x81\xe0\xa4\x88\xe0\xa4\x82') had 5 occurrences
+compression ratio: 10.08X
+merge 4246/4744: (278, 950) -> 4501 (b' \xe0\xa4\xb8\xe0\xa4\xbe\xe0\xa4\x97') had 5 occurrences
+compression ratio: 10.08X
+merge 4251/4744: (2666, 260) -> 4506 (b' \xe0\xa4\xa8\xe0\xa4\xbf\xe0\xa4\xb5\xe0\xa5\x87') had 5 occurrences
+compression ratio: 10.08X
+merge 4256/4744: (464, 352) -> 4511 (b' \xe0\xa4\xa6\xe0\xa5\x87\xe0\xa4\x96\xe0\xa5\x80\xe0\xa4\x82') had 5 occurrences
+compression ratio: 10.09X
+merge 4261/4744: (328, 442) -> 4516 (b' \xe0\xa4\xb0\xe0\xa4\xbf\xe0\xa4\xb8') had 5 occurrences
+compression ratio: 10.09X
+merge 4266/4744: (2456, 316) -> 4521 (b'\xe0\xa4\xaa\xe0\xa5\x82\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\xb5') had 5 occurrences
+compression ratio: 10.09X
+merge 4271/4744: (514, 270) -> 4526 (b' \xe0\xa4\xae\xe0\xa4\xb8\xe0\xa5\x80\xe0\xa4\xb9\xe0\xa5\x80') had 5 occurrences
+compression ratio: 10.09X
+merge 4276/4744: (341, 708) -> 4531 (b' \xe0\xa4\x9a\xe0\xa5\x81\xe0\xa4\x97') had 5 occurrences
+compression ratio: 10.09X
+merge 4281/4744: (801, 3735) -> 4536 (b' \xe0\xa4\x9c\xe0\xa5\x80\xe0\xa4\xb5\xe0\xa4\xbf\xe0\xa4\x95\xe0\xa4\xbe') had 5 occurrences
+compression ratio: 10.09X
+merge 4286/4744: (4540, 276) -> 4541 (b' \xe0\xa4\x9c\xe0\xa4\xb0\xe0\xa5\x82\xe0\xa4\xb0\xe0\xa4\xa4') had 5 occurrences
+compression ratio: 10.09X
+merge 4291/4744: (568, 1606) -> 4546 (b' \xe0\xa4\xb9\xe0\xa5\x88\xe0\xa4\x82\xe0\xa5\xa4\xe0\xa4\xab\xe0\xa4\xbf\xe0\xa4\xb0') had 5 occurrences
+compression ratio: 10.09X
+merge 4296/4744: (761, 342) -> 4551 (b' \xe0\xa4\x86\xe0\xa4\x8f\xe0\xa4\x81') had 5 occurrences
+compression ratio: 10.09X
+merge 4301/4744: (3868, 275) -> 4556 (b' \xe0\xa4\x9b\xe0\xa4\xbf\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa4\x95') had 5 occurrences
+compression ratio: 10.10X
+merge 4306/4744: (678, 1024) -> 4561 (b' \xe0\xa4\xa0\xe0\xa4\xb9\xe0\xa4\xb0\xe0\xa5\x87\xe0\xa4\x82\xe0\xa5\xa4') had 5 occurrences
+compression ratio: 10.10X
+merge 4311/4744: (676, 2444) -> 4566 (b'\xe0\xa4\xbe\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xb2\xe0\xa5\x87') had 5 occurrences
+compression ratio: 10.10X
+merge 4316/4744: (721, 266) -> 4571 (b' \xe0\xa4\xae\xe0\xa4\xb0\xe0\xa5\x8b') had 5 occurrences
+compression ratio: 10.10X
+merge 4321/4744: (285, 4246) -> 4576 (b' \xe0\xa4\x9c\xe0\xa4\xbe\xe0\xa4\xa6\xe0\xa5\x82') had 5 occurrences
+compression ratio: 10.10X
+merge 4326/4744: (4580, 382) -> 4581 (b' \xe0\xa4\xaa\xe0\xa4\x82\xe0\xa4\xab\xe0\xa5\x82\xe0\xa4\xb2\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa4\xbe') had 5 occurrences
+compression ratio: 10.10X
+merge 4331/4744: (376, 4258) -> 4586 (b' \xe0\xa4\x87\xe0\xa4\x95\xe0\xa5\x81\xe0\xa4\xa8\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa5\x81\xe0\xa4\xae') had 5 occurrences
+compression ratio: 10.10X
+merge 4336/4744: (1185, 601) -> 4591 (b'\xe0\xa4\x87\xe0\xa4\xb8\xe0\xa4\x95\xe0\xa5\x8b') had 5 occurrences
+compression ratio: 10.10X
+merge 4341/4744: (4595, 564) -> 4596 (b' \xe0\xa4\x9c\xe0\xa5\x87\xe0\xa4\xb2\xe0\xa4\x96\xe0\xa4\xbe\xe0\xa4\xa8\xe0\xa5\x87') had 5 occurrences
+compression ratio: 10.10X
+merge 4346/4744: (400, 639) -> 4601 (b' \xe0\xa4\x8f\xe0\xa4\xa5') had 5 occurrences
+compression ratio: 10.11X
+merge 4351/4744: (4605, 673) -> 4606 (b' \xe0\xa4\xb8\xe0\xa5\x8d\xe0\xa4\xb5\xe0\xa5\x80\xe0\xa4\x95\xe0\xa4\xbe\xe0\xa4\xb0') had 5 occurrences
+compression ratio: 10.11X
+merge 4356/4744: (1564, 499) -> 4611 (b' \xe0\xa4\xa0\xe0\xa4\xb9\xe0\xa4\xb0\xe0\xa5\x87\xe0\xa4\x97\xe0\xa4\xbe\xe0\xa5\xa4') had 5 occurrences
+compression ratio: 10.11X
+merge 4361/4744: (4615, 704) -> 4616 (b' \xe0\xa4\xb8\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\xa8\xe0\xa4\xbe\xe0\xa4\xb6') had 5 occurrences
+compression ratio: 10.11X
+merge 4366/4744: (676, 259) -> 4621 (b'\xe0\xa4\xbe\xe0\xa4\xb5\xe0\xa4\xbe') had 5 occurrences
+compression ratio: 10.11X
+merge 4371/4744: (309, 2458) -> 4626 (b' \xe0\xa4\xb8\xe0\xa5\x87\xe0\xa4\xa8\xe0\xa4\xbe\xe0\xa4\x93\xe0\xa4\x82') had 5 occurrences
+compression ratio: 10.11X
+merge 4376/4744: (476, 1356) -> 4631 (b' \xe0\xa4\xb2\xe0\xa5\x87\xe0\xa4\xa8\xe0\xa4\xbe\xe0\xa5\xa4') had 5 occurrences
+compression ratio: 10.11X
+merge 4381/4744: (340, 2324) -> 4636 (b' \xe0\xa4\x97\xe0\xa4\xbe\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa5\x87') had 5 occurrences
+compression ratio: 10.11X
+merge 4386/4744: (2979, 323) -> 4641 (b' \xe0\xa4\xa6\xe0\xa5\x81\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\xac\xe0\xa4\xb2\xe0\xa4\xa4\xe0\xa4\xbe') had 5 occurrences
+compression ratio: 10.11X
+merge 4391/4744: (3265, 455) -> 4646 (b'\n\xe0\xa4\x9a\xe0\xa5\x87\xe0\xa4\xb2\xe0\xa5\x87') had 5 occurrences
+compression ratio: 10.12X
+merge 4396/4744: (4307, 4308) -> 4651 (b' \xe0\xa4\xb0\xe0\xa4\xbe\xe0\xa4\x9c\xe0\xa4\xae\xe0\xa4\xbf\xe0\xa4\xb8\xe0\xa5\x8d\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xb0\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa5\x8b\xe0\xa4\x82') had 5 occurrences
+compression ratio: 10.12X
+merge 4401/4744: (535, 377) -> 4656 (b' \xe0\xa4\x89\xe0\xa4\xa4\xe0\xa4\xa8\xe0\xa4\xbe') had 5 occurrences
+compression ratio: 10.12X
+merge 4406/4744: (1580, 410) -> 4661 (b'\xe0\xa4\x82\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xb0\xe0\xa4\xbf\xe0\xa4\xa4') had 5 occurrences
+compression ratio: 10.12X
+merge 4411/4744: (2044, 287) -> 4666 (b' \xe0\xa4\xaa\xe0\xa4\xbe\xe0\xa4\x88\xe0\xa5\xa4') had 5 occurrences
+compression ratio: 10.12X
+merge 4416/4744: (2354, 477) -> 4671 (b' \xe0\xa4\xb9\xe0\xa4\xbf\xe0\xa4\xb2\xe0\xa4\xbe\xe0\xa4\x88') had 5 occurrences
+compression ratio: 10.12X
+merge 4421/4744: (283, 579) -> 4676 (b' \xe0\xa4\x89\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa4\xbe') had 5 occurrences
+compression ratio: 10.12X
+merge 4426/4744: (1744, 2610) -> 4681 (b' \xe0\xa4\xb8\xe0\xa5\x83\xe0\xa4\x9c\xe0\xa5\x80') had 5 occurrences
+compression ratio: 10.12X
+merge 4431/4744: (668, 291) -> 4686 (b' \xe0\xa4\xb8\xe0\xa4\xae\xe0\xa4\x9d\xe0\xa4\xa8\xe0\xa5\x87') had 5 occurrences
+compression ratio: 10.13X
+merge 4436/4744: (1793, 743) -> 4691 (b' \xe0\xa4\x86\xe0\xa4\x9c\xe0\xa5\x8d\xe0\xa4\x9e\xe0\xa4\xbe\xe0\xa4\x8f\xe0\xa4\x81') had 5 occurrences
+compression ratio: 10.13X
+merge 4441/4744: (1482, 291) -> 4696 (b' \xe0\xa4\x9c\xe0\xa4\xa8\xe0\xa4\xa8\xe0\xa5\x87') had 5 occurrences
+compression ratio: 10.13X
+merge 4446/4744: (335, 4052) -> 4701 (b' \xe0\xa4\xb9\xe0\xa5\x8b\xe0\xa4\xa0\xe0\xa5\x8b\xe0\xa4\x82') had 5 occurrences
+compression ratio: 10.13X
+merge 4451/4744: (267, 171) -> 4706 (b'\xe0\xa5\x8d\xe0\xa4\xab') had 5 occurrences
+compression ratio: 10.13X
+merge 4456/4744: (1667, 270) -> 4711 (b' \xe0\xa4\x96\xe0\xa5\x81\xe0\xa4\xb2\xe0\xa5\x80') had 5 occurrences
+compression ratio: 10.13X
+merge 4461/4744: (296, 173) -> 4716 (b'\xe0\xa5\x81\xe0\xa4\xad') had 5 occurrences
+compression ratio: 10.13X
+merge 4466/4744: (2479, 364) -> 4721 (b' \xe0\xa4\xae\xe0\xa4\xb6\xe0\xa4\xbe\xe0\xa4\xb2') had 5 occurrences
+compression ratio: 10.13X
+merge 4471/4744: (1510, 645) -> 4726 (b'\n\xe0\xa4\x89\xe0\xa4\xa8\xe0\xa4\x95\xe0\xa5\x80') had 5 occurrences
+compression ratio: 10.13X
+merge 4476/4744: (392, 1963) -> 4731 (b' \xe0\xa4\xb0\xe0\xa4\xb9\xe0\xa5\x8b\xe0\xa4\x97\xe0\xa5\x87\xe0\xa5\xa4') had 5 occurrences
+compression ratio: 10.14X
+merge 4481/4744: (1996, 2476) -> 4736 (b'\n\xe0\xa4\xad\xe0\xa5\x8b\xe0\xa4\x9c\xe0\xa4\xa8') had 5 occurrences
+compression ratio: 10.14X
+merge 4486/4744: (4740, 4375) -> 4741 (b' \xe0\xa4\xb9\xe0\xa4\xb2\xe0\xa4\xab\xe0\xa4\x88\xe0\xa4\xb8') had 5 occurrences
+compression ratio: 10.14X
+merge 4491/4744: (2554, 579) -> 4746 (b' \xe0\xa4\x98\xe0\xa5\x8b\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa4\xbe') had 5 occurrences
+compression ratio: 10.14X
+merge 4496/4744: (2611, 3682) -> 4751 (b' \xe0\xa4\xae\xe0\xa5\x8b\xe0\xa4\xa4\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa5\x8b\xe0\xa4\x82') had 5 occurrences
+compression ratio: 10.14X
+merge 4501/4744: (769, 700) -> 4756 (b' \xe0\xa4\x9a\xe0\xa4\xb2\xe0\xa4\xa8\xe0\xa5\x87\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xb2\xe0\xa5\x87') had 5 occurrences
+compression ratio: 10.14X
+merge 4506/4744: (1366, 4076) -> 4761 (b' \xe0\xa4\xb2\xe0\xa5\x8c\xe0\xa4\xa6\xe0\xa5\x80\xe0\xa4\x95\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa4\xbe') had 5 occurrences
+compression ratio: 10.14X
+merge 4511/4744: (328, 639) -> 4766 (b' \xe0\xa4\xb0\xe0\xa4\xa5') had 5 occurrences
+compression ratio: 10.14X
+merge 4516/4744: (3053, 410) -> 4771 (b' \xe0\xa4\xb8\xe0\xa5\x81\xe0\xa4\x97\xe0\xa4\xa8\xe0\xa5\x8d\xe0\xa4\xa7\xe0\xa4\xbf\xe0\xa4\xa4') had 5 occurrences
+compression ratio: 10.14X
+merge 4521/4744: (751, 673) -> 4776 (b' \xe0\xa4\x89\xe0\xa4\xaa\xe0\xa4\x95\xe0\xa4\xbe\xe0\xa4\xb0') had 5 occurrences
+compression ratio: 10.15X
+merge 4526/4744: (424, 327) -> 4781 (b' \xe0\xa4\xab\xe0\xa4\xbc') had 5 occurrences
+compression ratio: 10.15X
+merge 4531/4744: (277, 3761) -> 4786 (b' \xe0\xa4\xaa\xe0\xa4\xb6\xe0\xa5\x81\xe0\xa4\x93\xe0\xa4\x82') had 5 occurrences
+compression ratio: 10.15X
+merge 4536/4744: (4790, 659) -> 4791 (b' \xe0\xa4\xa1\xe0\xa5\x8b\xe0\xa4\x82\xe0\xa4\x97\xe0\xa5\x80') had 5 occurrences
+compression ratio: 10.15X
+merge 4541/4744: (1644, 966) -> 4796 (b'\n\xe0\xa4\xaa\xe0\xa5\x8d\xe0\xa4\xb0\xe0\xa4\xa7\xe0\xa4\xbe\xe0\xa4\xa8') had 5 occurrences
+compression ratio: 10.15X
+merge 4546/4744: (1003, 290) -> 4801 (b' \xe0\xa4\xac\xe0\xa4\xbe\xe0\xa4\xb2\xe0\xa5\x87\xe0\xa4\x82') had 5 occurrences
+compression ratio: 10.15X
+merge 4551/4744: (397, 627) -> 4806 (b'\xe0\xa4\xbe\xe0\xa4\xb9\xe0\xa5\x80\xe0\xa4\xa8') had 5 occurrences
+compression ratio: 10.15X
+merge 4556/4744: (1860, 1906) -> 4811 (b' \xe0\xa4\x9c\xe0\xa4\xaf\xe0\xa4\xb5\xe0\xa4\xa8\xe0\xa5\x8d\xe0\xa4\xa4') had 5 occurrences
+compression ratio: 10.15X
+merge 4561/4744: (3471, 920) -> 4816 (b' \xe0\xa4\xb5\xe0\xa4\xbf\xe0\xa4\xaa\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xa4\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa4\xbe\xe0\xa4\x81') had 5 occurrences
+compression ratio: 10.16X
+merge 4566/4744: (1719, 3438) -> 4821 (b' \xe0\xa4\xa8\xe0\xa4\xbf\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\xac\xe0\xa4\xb2\xe0\xa4\xa4\xe0\xa4\xbe\xe0\xa4\x93\xe0\xa4\x82') had 5 occurrences
+compression ratio: 10.16X
+merge 4571/4744: (4825, 271) -> 4826 (b' \xe0\xa4\xa8\xe0\xa4\xaa\xe0\xa5\x81') had 5 occurrences
+compression ratio: 10.16X
+merge 4576/4744: (340, 1733) -> 4831 (b' \xe0\xa4\x97\xe0\xa5\x83\xe0\xa4\xb9') had 5 occurrences
+compression ratio: 10.16X
+merge 4581/4744: (1186, 428) -> 4836 (b' \xe0\xa4\x9a\xe0\xa4\xb2\xe0\xa5\x87\xe0\xa4\x97\xe0\xa4\xbe') had 5 occurrences
+compression ratio: 10.16X
+merge 4586/4744: (1177, 1991) -> 4841 (b' \xe0\xa4\x86\xe0\xa4\x97\xe0\xa4\xae\xe0\xa4\xa8') had 5 occurrences
+compression ratio: 10.16X
+merge 4591/4744: (425, 1097) -> 4846 (b' \xe0\xa4\x96\xe0\xa4\xae\xe0\xa5\x8d\xe0\xa4\xad') had 4 occurrences
+compression ratio: 10.16X
+merge 4596/4744: (2140, 1863) -> 4851 (b' \xe0\xa4\xac\xe0\xa4\x9f\xe0\xa5\x8b\xe0\xa4\xb0\xe0\xa4\xbe') had 4 occurrences
+compression ratio: 10.16X
+merge 4601/4744: (320, 272) -> 4856 (b'\xe0\xa4\xaa\xe0\xa4\xb8') had 4 occurrences
+compression ratio: 10.16X
+merge 4606/4744: (528, 264) -> 4861 (b'\xe0\xa4\xbe\xe0\xa4\xaa\xe0\xa4\xa8') had 4 occurrences
+compression ratio: 10.16X
+merge 4611/4744: (1571, 1751) -> 4866 (b' \xe0\xa4\xa6\xe0\xa5\x8d\xe0\xa4\xb5\xe0\xa4\xbe\xe0\xa4\xb0\xe0\xa4\xaa\xe0\xa4\xbe\xe0\xa4\xb2') had 4 occurrences
+compression ratio: 10.17X
+merge 4616/4744: (494, 410) -> 4871 (b'\n\xe0\xa4\x9c\xe0\xa4\xbf\xe0\xa4\xa4') had 4 occurrences
+compression ratio: 10.17X
+merge 4621/4744: (604, 4458) -> 4876 (b' \xe0\xa4\x93\xe0\xa4\xb8\xe0\xa4\xbe\xe0\xa4\xb0\xe0\xa5\x87') had 4 occurrences
+compression ratio: 10.17X
+merge 4626/4744: (750, 672) -> 4881 (b' \xe0\xa4\xb8\xe0\xa5\x8d\xe0\xa4\xb5\xe0\xa4\x9a\xe0\xa5\x8d\xe0\xa4\x9b') had 4 occurrences
+compression ratio: 10.17X
+merge 4631/4744: (2067, 350) -> 4886 (b' \xe0\xa4\xa4\xe0\xa5\x8b\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa4\x95\xe0\xa4\xb0') had 4 occurrences
+compression ratio: 10.17X
+merge 4636/4744: (796, 768) -> 4891 (b' \xe0\xa4\xac\xe0\xa4\xa8\xe0\xa4\xbe\xe0\xa4\x93') had 4 occurrences
+compression ratio: 10.17X
+merge 4641/4744: (456, 377) -> 4896 (b'\xe0\xa5\x8c\xe0\xa4\xa8\xe0\xa4\xbe') had 4 occurrences
+compression ratio: 10.17X
+merge 4646/4744: (2042, 2367) -> 4901 (b' \xe0\xa4\x95\xe0\xa4\xb2\xe0\xa4\x82\xe0\xa4\x95') had 4 occurrences
+compression ratio: 10.17X
+merge 4651/4744: (1929, 350) -> 4906 (b' \xe0\xa4\xa7\xe0\xa4\xb0\xe0\xa4\x95\xe0\xa4\xb0') had 4 occurrences
+compression ratio: 10.17X
+merge 4656/4744: (719, 270) -> 4911 (b' \xe0\xa4\xad\xe0\xa5\x87\xe0\xa4\x9c\xe0\xa5\x80') had 4 occurrences
+compression ratio: 10.17X
+merge 4661/4744: (1178, 603) -> 4916 (b' \xe0\xa4\xac\xe0\xa5\x8b\xe0\xa4\xb2\xe0\xa4\xbe') had 4 occurrences
+compression ratio: 10.18X
+merge 4666/4744: (678, 1271) -> 4921 (b' \xe0\xa4\xa0\xe0\xa4\xb9\xe0\xa4\xb0\xe0\xa5\x8b\xe0\xa5\xa4') had 4 occurrences
+compression ratio: 10.18X
+merge 4671/4744: (462, 539) -> 4926 (b'\xe0\xa4\xbf\xe0\xa4\xb2\xe0\xa4\xbe\xe0\xa4\x95\xe0\xa4\xb0') had 4 occurrences
+compression ratio: 10.18X
+merge 4676/4744: (2110, 909) -> 4931 (b' \xe0\xa4\xac\xe0\xa4\xa8\xe0\xa5\x8d\xe0\xa4\xa7\xe0\xa4\xa8\xe0\xa5\x8b\xe0\xa4\x82') had 4 occurrences
+compression ratio: 10.18X
+merge 4681/4744: (4935, 4204) -> 4936 (b' \xe0\xa4\xb6\xe0\xa4\xbf\xe0\xa4\xb0\xe0\xa5\x8b\xe0\xa4\xae\xe0\xa4\xa3\xe0\xa4\xbf') had 4 occurrences
+compression ratio: 10.18X
+merge 4686/4744: (829, 260) -> 4941 (b' \xe0\xa4\x9a\xe0\xa4\xa2\xe0\xa4\xbc\xe0\xa5\x87') had 4 occurrences
+compression ratio: 10.18X
+merge 4691/4744: (4945, 260) -> 4946 (b' \xe0\xa4\x97\xe0\xa4\xa1\xe0\xa5\x8d\xe0\xa4\xa2\xe0\xa5\x87') had 4 occurrences
+compression ratio: 10.18X
+merge 4696/4744: (320, 610) -> 4951 (b'\xe0\xa4\xaa\xe0\xa5\x81\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xb0') had 4 occurrences
+compression ratio: 10.18X
+merge 4701/4744: (1351, 291) -> 4956 (b'\n\xe0\xa4\xb9\xe0\xa4\xae\xe0\xa4\xa8\xe0\xa5\x87') had 4 occurrences
+compression ratio: 10.18X
+merge 4706/4744: (3077, 445) -> 4961 (b' \xe0\xa4\xa8\xe0\xa4\xbf\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\xac\xe0\xa5\x81\xe0\xa4\xa6\xe0\xa5\x8d\xe0\xa4\xa7\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa5\x8b\xe0\xa4\x82') had 4 occurrences
+compression ratio: 10.18X
+merge 4711/4744: (4965, 2081) -> 4966 (b' \xe0\xa4\xb8\xe0\xa5\x83\xe0\xa4\x9c\xe0\xa4\xa8\xe0\xa4\xb9\xe0\xa4\xbe\xe0\xa4\xb0') had 4 occurrences
+compression ratio: 10.18X
+merge 4716/4744: (278, 298) -> 4971 (b' \xe0\xa4\xb8\xe0\xa4\xbe\xe0\xa4\xb0') had 4 occurrences
+compression ratio: 10.19X
+merge 4721/4744: (4975, 2672) -> 4976 (b' \xe0\xa4\xaa\xe0\xa5\x8d\xe0\xa4\xb0\xe0\xa4\xa4\xe0\xa4\xbf\xe0\xa4\xb5\xe0\xa4\xb0\xe0\xa5\x8d\xe0\xa4\xb7') had 4 occurrences
+compression ratio: 10.19X
+merge 4726/4744: (10, 822) -> 4981 (b'\n\xe0\xa4\xb9\xe0\xa4\xbe\xe0\xa4\x81') had 4 occurrences
+compression ratio: 10.19X
+merge 4731/4744: (1639, 260) -> 4986 (b' \xe0\xa4\x85\xe0\xa4\x9a\xe0\xa4\xae\xe0\xa5\x8d\xe0\xa4\xad\xe0\xa5\x87') had 4 occurrences
+compression ratio: 10.19X
+merge 4736/4744: (364, 1150) -> 4991 (b'\xe0\xa4\xbe\xe0\xa4\xb2\xe0\xa5\x80\xe0\xa4\xb8') had 4 occurrences
+compression ratio: 10.19X
+merge 4741/4744: (4995, 645) -> 4996 (b' \xe0\xa4\x96\xe0\xa4\xbf\xe0\xa4\xa1\xe0\xa4\xbc\xe0\xa4\x95\xe0\xa5\x80') had 4 occurrences
+compression ratio: 10.19X
+Training took 6005.98 seconds

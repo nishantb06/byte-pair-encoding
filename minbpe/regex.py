@@ -17,7 +17,14 @@ from .base import Tokenizer, get_stats, merge
 # https://github.com/openai/tiktoken/blob/main/tiktoken_ext/openai_public.py
 GPT2_SPLIT_PATTERN = r"""'(?:[sdmt]|ll|ve|re)| ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+"""
 GPT4_SPLIT_PATTERN = r"""'(?i:[sdmt]|ll|ve|re)|[^\r\n\p{L}\p{N}]?+\p{L}+|\p{N}{1,3}| ?[^\s\p{L}\p{N}]++[\r\n]*|\s*[\r\n]|\s+(?!\S)|\s+"""
+HINDI_SPLIT_PATTERN = r'[\u0900-\u097F\u0981-\u0983]+'
+HINDI_SPLIT_PATTERN_V2 = r'\s*(?:[\u0900-\u097F\u0981-\u0983]+|\d+|[^\s\w\u0900-\u097F\u0981-\u0983])'
 
+def count_tokens(ids):
+    total_length = 0
+    for id in ids:
+        total_length += len(id)
+    return total_length
 
 class RegexTokenizer(Tokenizer):
 
@@ -28,7 +35,7 @@ class RegexTokenizer(Tokenizer):
           example: {'<|endoftext|>': 100257}
         """
         super().__init__()
-        self.pattern = GPT4_SPLIT_PATTERN if pattern is None else pattern
+        self.pattern = HINDI_SPLIT_PATTERN_V2 if pattern is None else pattern
         self.compiled_pattern = re.compile(self.pattern)
         self.special_tokens = {}
         self.inverse_special_tokens = {}
@@ -63,9 +70,9 @@ class RegexTokenizer(Tokenizer):
             merges[pair] = idx
             vocab[idx] = vocab[pair[0]] + vocab[pair[1]]
             # prints
-            if verbose:
+            if verbose and i % 5 == 0:
                 print(f"merge {i+1}/{num_merges}: {pair} -> {idx} ({vocab[idx]}) had {stats[pair]} occurrences")
-                print(f"compression ratio: {len(tokens) / len(ids):.2f}X")
+                print(f"compression ratio: {len(tokens) / count_tokens(ids):.2f}X")
 
         # save class variables
         self.merges = merges # used in encode()
