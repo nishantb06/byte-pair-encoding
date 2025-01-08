@@ -2,27 +2,6 @@
 
 Hugging Face Spaces: https://huggingface.co/spaces/nishantb06/hindi-tokenizer-bpe-v2
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 20">
-  <linearGradient id="b" x2="0" y2="100%">
-    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-    <stop offset="1" stop-opacity=".1"/>
-  </linearGradient>
-  <clipPath id="a">
-    <rect width="290" height="20" rx="3" fill="#fff"/>
-  </clipPath>
-  <g clip-path="url(#a)">
-    <path fill="#555" d="M0 0h97v20H0z"/>
-    <path fill="#FF9B3F" d="M97 0h193v20H97z"/>
-    <path fill="url(#b)" d="M0 0h290v20H0z"/>
-  </g>
-  <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-    <text x="48.5" y="15" fill="#010101" fill-opacity=".3">Hugging Face</text>
-    <text x="48.5" y="14">Hugging Face</text>
-    <text x="192.5" y="15" fill="#010101" fill-opacity=".3">Hindi Tokenizer BPE v2 Demo</text>
-    <text x="192.5" y="14">Hindi Tokenizer BPE v2 Demo</text>
-  </g>
-</svg>
-
 
 This repository contains the code for training a tokenizer with Byte-Pair Encoding (BPE) for the Hindi language. The tokenizer is trained on a dataset of Hindi text and is used to convert the text into a sequence of tokens.
 
