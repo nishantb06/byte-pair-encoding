@@ -1,5 +1,7 @@
 # Training a Tokenizer with Byte-Pair Encoding (BPE) for Hindi Language.
 
+Hugging Face Spaces: https://huggingface.co/spaces/nishantb06/hindi-tokenizer-bpe-v2
+
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290 20">
   <linearGradient id="b" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
